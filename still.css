@@ -87,7 +87,6 @@ a{
 	width: 65vw;
 	margin-left: 20%;
 	margin-top: 120%;
-/*	position: absolute;*/
 }
 
 #box3{
@@ -181,14 +180,15 @@ a{
 @media screen and (min-width : 700px){
 	header{
 		font-size: 25px;
+		height: 5%;
 	}
 
 	#cv{
 		margin-right: 20px;
 	}
-	
+
 	#box1{
-		height: 75vh;
+		height: 60vh;
 	}
 
 	#img1{
@@ -202,16 +202,17 @@ a{
 	}
 
 	#box2{
-		height: 125vh;
+		height: 100vh;
+		margin-top: 300px;
 	}
 
 	#box3{
 		height: 40vh;
-		margin-top: 400px;
+		margin-top: 350px;
 	}
 
 	#box4{
-		margin-top: 110px;
+		margin-top: 60px;
 	}
 
 	#img9{
@@ -223,7 +224,7 @@ a{
 	}
 
 	#box5{
-		margin-top: 1200px;
+		margin-top: 300px;
 	}
 }
 
