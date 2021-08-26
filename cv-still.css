@@ -317,18 +317,23 @@ a{
 	#m-f img{
 		width: 13vw;
 	}
+	
+	#k-t{
+		margin-top: 120px;
+		line-height: 2.4;
+	}
 
 	#k img{
 		width: 5vw;
 	}
 
 	#be-logo{
-		margin-top: 230px;
-		margin-left: 66px;
+		margin-top: 260px;
+		margin-left: 71px;
 	}
 
 	#be{
-		margin-top: 231px;
+		margin-top: 260px;
 	}
 
 	#obrazovanje{
@@ -394,6 +399,7 @@ a{
 
 	#k-t{
 		margin-top: 145px;
+		line-height: 2;
 	}
 
 	#be-logo{
