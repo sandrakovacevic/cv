@@ -39,10 +39,12 @@ a{
 #x{
 	right: 20px;
 	position: absolute;
-	font-family: 'Montserrat', serif;
-	font-size: 30px;
-	color: #737373;
-	text-decoration: none;
+	width: 15px;
+	height: 15px;
+	margin-top: 10px;
+	background-image: url('img/x.png');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #main{
@@ -220,7 +222,9 @@ a{
 		font-size: 25px;
 	}
 
-	#x{
+	#x{	
+		width: 20px;
+		height: 20px
 		margin-right: 20px;
 	}
 
