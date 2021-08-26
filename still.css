@@ -40,7 +40,7 @@ a{
 	background-color: #dcdcdc;
 	position: relative;
 	width: 100vw;
-	height: 70vh;
+	height: 80vh;
 	top: 50px;
 }
 
@@ -93,7 +93,7 @@ a{
 	width: 100vw;
 	height: 40vh;
 	position: relative;
-	margin-top: 150px;
+	margin-top: 200px;
 }
 
 #img7{
@@ -118,7 +118,7 @@ a{
 
 #img9{
 	width: 40vw;
-	margin-top: 25vh;
+	margin-top: 28vh;
 	margin-left: 50vw;
 	position: absolute;
 }
