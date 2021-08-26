@@ -337,12 +337,15 @@ a{
 	}
 
 	#box3{
-		height: 50vw;
+		width: 100vw;
 	}
 
 	#img7{
-		width: 80vw;
-		margin-left: 250px;
+		width: 100vw;
+	}
+
+	#box4{
+		margin-top: 900px;
 	}
 
 	#img8{
@@ -363,7 +366,7 @@ a{
 	}
 
 	#box5{
-		margin-top: 900px;	
+		margin-top: 300px;	
 	}
 
 	#img11{
