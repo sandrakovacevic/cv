@@ -230,51 +230,65 @@ a{
 
 @media screen and (min-width : 1024px){
 	header{
-		font-size: 25px;
+		height: 6%;
 	}
 
 	#cv{
-		margin-right: 20px;
+		right: 50px;
 	}
 
 	#box1{
-		height: 75vh;
+		height: 80vh;
 	}
 
 	#img1{
-		width: 30vw;
+		width: 25vw;
+		margin-top: 80px;
 	}
 
 	#img2{
-		width: 50vw;
-		margin-top: -80px;
-		margin-left: 350px;
+		width: 45vw;
+		margin-top: -250px;
+		margin-left: 600px;
 	}
 
 	#box2{
-		height: 125vh;
-		margin-top: 300px;
+		margin-top: 700px;
+		height: 150vh;
 	}
 
-	#box3{
-		height: 40vh;
-		margin-top: 350px;
+	#img4{
+		width: 25vw;
+		margin-left: 80px;
+		margin-top: 100px;
+	}
+
+	#img5{
+		width: 50vw;
+		margin-top: 50px;
+		right: 50px;
+	}
+
+	#img6{
+		width: 45vw;
+		margin-top: 750px;
+		margin-left: 30%;
 	}
 
 	#box4{
-		margin-top: 110px;
+		margin-top: 500px;
 	}
 
 	#img9{
-		margin-top: 330px;
+		margin-top: 400px;
 	}
 
 	#img10{
-		margin-top: 530px;
+		margin-top: 700px;
 	}
 
-	#box5{
-		margin-top: 1200px;
+	#img11{
+		margin-top: 130px;
 	}
 }
 
