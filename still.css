@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 	opacity: 0;
-    	transition: opacity 1.5s;
+    transition: opacity 1.5s;
 }
 
 header{
@@ -13,10 +13,11 @@ header{
 	font-family: Khand;
 	font-size: 22px;
 	color: #737373;
-	background-color: white;
+/*	background-color: white;*/
 	z-index: 100;
 	text-decoration: none;
 	color: #737373;
+	
 }
 
 a{
@@ -26,26 +27,26 @@ a{
 
 #name{
 	margin-left: 10px;
-	position: absolute;
+	position: absolute;	
 }
 
 #cv{
 	right: 20px;
 	position: absolute;
 	text-decoration: none;
-	color: #737373;
+	color: #737373
 }
 
 #box1{
 	background-color: #dcdcdc;
 	position: relative;
 	width: 100vw;
-	height: 90vh;
+	height: 70vh;
 	top: 50px;
 }
 
 #img1{
-	width: 55vw;
+	width: 45vw;
 	margin-left: 10%;
 	margin-top: 10%;
 }
@@ -58,14 +59,15 @@ a{
 
 #box2{
 	width: 100vw;
-	height: 95vh;
+	height: 90vh;
 	background-color: ;
 	position: relative;
 	z-index: -10;
-	margin-top: 350px;
+	margin-top: 300px;
 	background-image: url('img/3.png');
 	background-repeat: no-repeat;
 	background-size: cover;
+
 }
 
 #img4{
@@ -85,29 +87,24 @@ a{
 	width: 65vw;
 	margin-left: 20%;
 	margin-top: 120%;
-	position: absolute;
+/*	position: absolute;*/
 }
 
 #box3{
-	background-color: #e9e9e9;
 	width: 100vw;
-	height: 40vh;
 	position: relative;
 	margin-top: 200px;
 }
 
 #img7{
-	width: 90vw;
-	margin-top: 6%;
-	margin-left: 5%;
-	
+	width: 100vw;
 }
 
 #box4{
 	width: 100vw;
 	position: relative;
   	margin-left: 15px;
-	margin-top: 100px;
+  	margin-top: 50px;
 }
 
 #img8{
@@ -128,13 +125,12 @@ a{
 	width: 40vw;
 	margin-top: 43vh;
 	margin-left: 5vw;
-	position: absolute;
 }
 
 #box5{
 	width: 100vw;
 	position: relative;
-	margin-top: 135%;
+	margin-top: 130px;
 }
 
 #img11{
@@ -176,9 +172,13 @@ a{
 	#img10{
 		margin-top: 450px;
 	}
+
+	#box5{
+		margin-top: 145%;
+	}
 }
 
-@media screen and (min-width : 700px){
+@media screen and (min-width : 700px) and (orientation: landscape){
 	header{
 		font-size: 25px;
 	}
