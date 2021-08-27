@@ -1,6 +1,7 @@
 body{
 	margin-left: 0;
 	margin-top: 0;
+	margin-right: 0;
 	opacity: 0;
     	transition: opacity 1.5s;
 }
@@ -15,9 +16,7 @@ header{
 	color: #737373;
 	background-color: white;
 	z-index: 100;
-	text-decoration: none;
-	color: #737373;
-	
+	text-decoration: none;	
 }
 
 a{
@@ -40,7 +39,6 @@ a{
 #box1{
 	background-color: #dcdcdc;
 	position: relative;
-	width: 100vw;
 	height: 70vh;
 	top: 50px;
 }
@@ -58,7 +56,6 @@ a{
 }
 
 #box2{
-	width: 100vw;
 	height: 90vh;
 	background-color: ;
 	position: relative;
@@ -67,7 +64,6 @@ a{
 	background-image: url('img/3.png');
 	background-repeat: no-repeat;
 	background-size: cover;
-
 }
 
 #img4{
@@ -90,7 +86,6 @@ a{
 }
 
 #box3{
-	width: 100vw;
 	position: relative;
 	margin-top: 200px;
 }
@@ -100,7 +95,6 @@ a{
 }
 
 #box4{
-	width: 100vw;
 	position: relative;
   	margin-left: 15px;
   	margin-top: 50px;
@@ -127,7 +121,6 @@ a{
 }
 
 #box5{
-	width: 100vw;
 	position: relative;
 	margin-top: 130px;
 }
