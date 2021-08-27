@@ -154,27 +154,23 @@ a{
 
 @media screen and (min-width: 500px) and (orientation: landscape){
 	header{
-		height: 8%;
-	}
-
-	#x{
-		margin-right: 10px;
-	}
+		height: 10vh;
+		z-index: 1000;	}
 
 	#text{
-		margin-top: 250px;
+		margin-top: 60vh;
 		width: 70vw;
 	}
 
 	#k img{
 		width: 6vw;
-		margin-top: 73px;
-
+		margin-top: 20vh;
 	}
 
 	#k-t{
 		margin-top: 84px;
 		line-height: 2;
+		margin-left: 8vw;
 	}
 
 	#m-f img{
@@ -182,36 +178,38 @@ a{
 	}
 
 	#be-logo{
-		margin-top: 167px;
+		margin-top: 47vh;
+		margin-left: 2vw;
+		width: 3%;
 	}
 
 	#be{
-		margin-top: 170px;
+		margin-top: 48vh;
+		margin-left: 8vw;
 	}
 
 	#obrazovanje{
-		margin-top: 430px;
+		margin-top: 120vh;
 	}
 
 	#obrz{
-		margin-top: 370px;
+		margin-top: 103vh;
 	}
 
 	#radnaracunaru{
-		margin-top: 570px;
+		margin-top: 158vh;
 	}
 
 	#r{
-		margin-top: 480px;
+		margin-top: 133vh;
 	}
 
 	#stranijezik{
-		margin-top: 680px;
-		height: 380px
+		margin-top: 190vh;
 	}
 
 	#s-j{
-		margin-top: 630px;
+		margin-top: 175vh;
 	}
 
 	#main{
