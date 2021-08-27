@@ -5,7 +5,7 @@ body{
 	margin-bottom: 100px;
 	padding: 0;
 	opacity: 0;
-    	transition: opacity 1.5s;
+    transition: opacity 1.5s;
 }
 
 header{
@@ -149,6 +149,7 @@ a{
 	margin-left: 3vw;
 	
 }
+
 @media screen and (min-width: 500px) and (orientation: landscape){
 	header{
 		height: 10vh;
@@ -219,80 +220,82 @@ a{
 		font-size: 25px;
 	}
 
-	#x{	
-		width:20px;
-		height:20px;
+	#x{
+		width: 20px;
+		height: 20px;
+		right: 20px;
 	}
 
 	#text{
 		width: 70vw;
-		margin-top: 330px;
-		margin-left: 90px;
+		margin-top: 25vh;
+		margin-left: 12vw;
 		font-size: 14px;
 	}
 
 	#m-f img{
 		width: 18vw;
-		margin-top: 100px;
-		right: 40px;
+		margin-top: 7vh;
+		right: 6vw;
 	}
 
 	#k img{
 		width: 6vw;
-		margin-top: 100px;
-		margin-left: 50px;
+		margin-top: 8vh;
+		margin-left: 6vw;
 	}
 
 	#k-t{
-		margin-top: 115px;
+		margin-top: 9vh;
 		font-size: 14px;
-		margin-left: 110px;
+		margin-left: 12vw;
 	}
 
 	#be-logo{
+		width: 3vw;
 		margin-top: 220px;
-		margin-left: 63px;
+		margin-left: 8vw;
 	}
 
 	#be{
-		margin-top: 220px;
-		margin-left: 110px;
+		margin-top: 17.5vh;
+		margin-left: 12vw;
 		font-size: 14px;
 	}
 
 	#obrazovanje{
-		margin-top: 640px;
+		margin-top: 50vh;
 		font-size: 14px;
-		margin-left: 47px;
+		margin-left: 6vw;
 	}
 
 	#obrz{
-		margin-top: 540px;
+		margin-top: 43vh;
 		font-size: 14px;
-		margin-left: 110px;
+		margin-left: 14vw;
 	}
 
 	#radnaracunaru{
-		margin-top: 830px;
+		margin-top: 65vh;
 		font-size: 14px;
-		margin-left: 47px;
+		margin-left: 6vw;
 	}
 
 	#r{
-		margin-top: 700px;
-		margin-left: 110px;
+		margin-top: 55vh;
+		margin-left: 14vw;
 		font-size: 14px;
 	}
 
 	#stranijezik{
-		margin-top: 980px;
-		margin-left: 47px;
+		margin-top: 78vh;
+		margin-left: 6vw;
 		font-size: 14px;
 	}
 
 	#s-j{
-		margin-top: 900px;
-		margin-left: 110px;
+		margin-top: 73vh;
+		margin-left: 14vw;
 		font-size: 14px;
 	}
 
@@ -301,59 +304,62 @@ a{
 	}
 }
 
+
+
 @media screen and (min-width : 1024px){
 	header{
-		height: 6%;
-	}
-
-	#x{
-		right: 30px;
+		padding-top: 3vh;
 	}
 
 	#m-f img{
 		width: 13vw;
-	}
-	
-	#k-t{
-		margin-top: 120px;
-		line-height: 2.4;
 	}
 
 	#k img{
 		width: 5vw;
 	}
 
+	#text{
+		margin-top: 40vh;
+	}
+
 	#be-logo{
-		margin-top: 260px;
-		margin-left: 71px;
+		width: 2vw;
+		margin-top: 30vh;
+		margin-left: 7.5vw;
 	}
 
 	#be{
-		margin-top: 260px;
+		margin-top: 30.5vh;
+	}
+
+	#k-t{
+		margin-top: 11vh;
+		line-height: 2.4;
 	}
 
 	#obrazovanje{
-		margin-top: 600px;
+		margin-top: 73vh;
 	}
 
 	#obrz{
-		margin-top: 510px;
+		margin-top: 62vh;
 	}
 
 	#radnaracunaru{
-		margin-top: 830px;
+		margin-top: 103vh;
 	}
 
 	#r{
-		margin-top: 700px;
+		margin-top: 88vh;
 	}
 
 	#stranijezik{
-		margin-top: 1030px;
+		margin-top: 128vh;
 	}
 
 	#s-j{
-		margin-top: 960px;
+		margin-top: 120vh;
 	}
 
 	#main{
@@ -363,11 +369,11 @@ a{
 
 @media screen and (min-width : 1400px){
 	header{
-		height: 5%;
+		height: 5vh;
 	}
 
 	#name{
-		margin-left: 30px;
+		margin-left: 3vw;
 	}
 
 	#x{
@@ -376,8 +382,8 @@ a{
 
 	#text{
 		width: 30vw;
-		left: 53vw;
-		margin-top: 450px;
+		left: 48vw;
+		margin-top: 50vh;
 	}
 
 	#main{
@@ -390,7 +396,7 @@ a{
 
 	#k img{
 		width: 2.7vw;
-		margin-top: 130px;
+		margin-top: 14vh;
 	}
 
 	#k-t{
@@ -399,39 +405,41 @@ a{
 	}
 
 	#be-logo{
-		margin-top: 275px;
+		margin-top: 29vh;
+		margin-left: 6.8vw;
+		width: 1.5vw;
 	}
 
 	#be{
-		margin-top: 275px;
+		margin-top: 29.5vh;
 	}
 
 	#obrazovanje{
-		margin-top: 500px;
+		margin-top: 53vh;
 	}
 
 	#obrz{
 		margin-top: 410px;
 		width: 30vw;
-		margin-left: 150px;
+		margin-left: 12vw;
 	}
 
 	#radnaracunaru{
-		margin-top: 700px;
+		margin-top: 75vh;
 	}
 
 	#r{
-		margin-top: 580px;
-		margin-left: 150px;
+		margin-top: 62vh;
+		margin-left: 12vw;
 	}
 
 	#stranijezik{
-		margin-top: 870px;
+		margin-top: 93vh;
 	}
 
 	#s-j{
-		margin-top: 800px;
-		margin-left: 150px;
+		margin-top: 85vh;
+		margin-left: 12vw;
 	}
 
 	#linija{
@@ -439,7 +447,7 @@ a{
 		height: 90vh;
 		position: absolute;
 		margin-left: 50vw;
-		margin-top: 50px;
+		margin-top: 10vh;
 		background-color: black;
 		z-index: 1000;
 	}
