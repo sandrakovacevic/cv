@@ -131,7 +131,7 @@ a{
 	margin-bottom: 15vw;
 }
 
-@media only screen and (min-width: 600px) and (orientation: landscape){
+@media screen and (min-width: 500px) and (orientation: landscape){
 	header{
 		height: 10vh;
 		padding-top: 1%;
@@ -168,7 +168,7 @@ a{
 	}
 }
 
-@media only screen and (min-width : 768px){
+@media screen and (min-width : 700px){
 	header{
 		font-size: 25px;
 		height: 5%;
@@ -218,7 +218,7 @@ a{
 		margin-top: 20vh;
 	}
 }
-/*
+
 @media screen and (min-width : 1024px){
 	header{
 		height: 6%;
@@ -362,5 +362,5 @@ a{
 
 	#img11{
 		margin-bottom: 20vh;
-	}*/
+	}
 }
