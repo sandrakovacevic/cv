@@ -132,41 +132,66 @@ a{
 
 @media screen and (min-width: 500px) and (orientation: landscape){
 	header{
-		height: 8%;
+		height: 10vh;
+		z-index: 1000;	}
+
+	#text{
+		margin-top: 65vh;
+		width: 70vw;
 	}
 
-	#cv{
-		margin-right: 10px;
+	#k img{
+		width: 6vw;
+		margin-top: 20vh;
 	}
 
-	#box1{
-		height: 220vh;
+	#k-t{
+		margin-top: 84px;
+		line-height: 2;
+		margin-left: 8vw;
 	}
 
-	#box2{
-		height: 300vh;
-		margin-top: 600px;
+	#m-f img{
+		width: 20vw;
 	}
 
-	#box3{
-		height: 100vh;
-		margin-top: 300px;
+	#be-logo{
+		margin-top: 47vh;
+		margin-left: 2vw;
+		width: 3%;
 	}
 
-	#box4{
-		margin-top: 100px;
+	#be{
+		margin-top: 48vh;
+		margin-left: 8vw;
 	}
 
-	#img9{
-		margin-top: 250px;
+	#obrazovanje{
+		margin-top: 120vh;
 	}
 
-	#img10{
-		margin-top: 400px;
+	#obrz{
+		margin-top: 103vh;
 	}
 
-	#box5{
-		margin-top: 150px;
+	#radnaracunaru{
+		margin-top: 158vh;
+	}
+
+	#r{
+		margin-top: 133vh;
+	}
+
+	#stranijezik{
+		margin-top: 190vh;
+	}
+
+	#s-j{
+		margin-top: 175vh;
+	}
+
+	#main{
+		height: 200vh;
 	}
 }
 
