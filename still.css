@@ -16,7 +16,7 @@ header{
 	color: #737373;
 	background-color: white;
 	z-index: 100;
-	text-decoration: none;	
+	text-decoration: none;
 }
 
 a{
@@ -64,6 +64,7 @@ a{
 	background-image: url('img/3.png');
 	background-repeat: no-repeat;
 	background-size: cover;
+
 }
 
 #img4{
@@ -133,65 +134,37 @@ a{
 @media screen and (min-width: 500px) and (orientation: landscape){
 	header{
 		height: 10vh;
-		z-index: 1000;	}
-
-	#text{
-		margin-top: 65vh;
-		width: 70vw;
+		padding-top: 1%;
 	}
 
-	#k img{
-		width: 6vw;
-		margin-top: 20vh;
+	#box1{
+		height: 220vh;
 	}
 
-	#k-t{
-		margin-top: 84px;
-		line-height: 2;
-		margin-left: 8vw;
-	}
-
-	#m-f img{
-		width: 20vw;
-	}
-
-	#be-logo{
-		margin-top: 47vh;
-		margin-left: 2vw;
-		width: 3%;
-	}
-
-	#be{
-		margin-top: 48vh;
-		margin-left: 8vw;
-	}
-
-	#obrazovanje{
+	#box2{
+		height: 300vh;
 		margin-top: 120vh;
 	}
 
-	#obrz{
-		margin-top: 103vh;
+	#box3{
+		height: 100vh;
+		margin-top: 80vh;
 	}
 
-	#radnaracunaru{
-		margin-top: 158vh;
+	#box4{
+		margin-top: 30vh;
 	}
 
-	#r{
-		margin-top: 133vh;
+	#img9{
+		margin-top: 60vh;
 	}
 
-	#stranijezik{
-		margin-top: 190vh;
+	#img10{
+		margin-top: 100vh;
 	}
 
-	#s-j{
-		margin-top: 175vh;
-	}
-
-	#main{
-		height: 200vh;
+	#box5{
+		margin-top: 50vh;
 	}
 }
 
@@ -215,34 +188,34 @@ a{
 
 	#img2{
 		width: 50vw;
-		margin-top: -80px;
-		margin-left: 350px;
+		margin-top: -13vh;
+		margin-left: 45vw;
 	}
 
 	#box2{
-		height: 100vh;
-		margin-top: 400px;
+		height: 120vh;
+		margin-top: 55vh;
 	}
 
 	#box3{
 		height: 40vh;
-		margin-top: 450px;
+		margin-top: 40vh;
 	}
 
 	#box4{
-		margin-top: 60px;
+		margin-top: 10vh;
 	}
 
 	#img9{
-		margin-top: 330px;
+		margin-top: 30vh;
 	}
 
 	#img10{
-		margin-top: 530px;
+		margin-top: 50vh;
 	}
 
 	#box5{
-		margin-top: 300px;
+		margin-top: 20vh;
 	}
 }
 
@@ -261,52 +234,52 @@ a{
 
 	#img1{
 		width: 25vw;
-		margin-top: 80px;
+		margin-top: 10vh;
 	}
 
 	#img2{
 		width: 45vw;
-		margin-top: -250px;
-		margin-left: 600px;
+		margin-top: -20vh;
+		margin-left: 45vw;
 	}
 
 	#box2{
-		margin-top: 700px;
+		margin-top: 80vh;
 		height: 150vh;
 	}
 
 	#img4{
 		width: 25vw;
-		margin-left: 80px;
-		margin-top: 100px;
+		margin-left: 8vw;
+		margin-top: 10vh;
 	}
 
 	#img5{
 		width: 50vw;
-		margin-top: 50px;
-		right: 50px;
+		margin-top: 10vh;
+		right: 7vw;
 	}
 
 	#img6{
-		width: 45vw;
-		margin-top: 750px;
+		width: 50vw;
+		margin-top: 100vh;
 		margin-left: 30%;
 	}
 
 	#box4{
-		margin-top: 500px;
+		margin-top: 50vh;
 	}
 
 	#img9{
-		margin-top: 400px;
+		margin-top: 50vh;
 	}
 
 	#img10{
-		margin-top: 700px;
+		margin-top: 90vh;
 	}
 
 	#img11{
-		margin-top: 130px;
+		margin-top: 20vh;
 	}
 }
 
@@ -325,18 +298,18 @@ a{
 
 	#img1{
 		width: 20vw;
-		margin-top: 100px;
-		margin-left: 300px;
+		margin-top: 10vh;
+		margin-left: 30vh;
 	}
 
 	#img2{
 		width: 40vw;
-		margin-left: 950px;
+		margin-left: 45vw;
 		margin-top: -300px;
 	}
 
 	#box2{
-		margin-top: 900px;
+		margin-top: 110vh;
 		height: 90vh;
 	}
 
@@ -350,8 +323,8 @@ a{
 
 	#img6{
 		width: 30vw;
-		margin-left: 550px;
-		margin-top: 400px;
+		margin-left: 25vw;
+		margin-top: 40vh;
 	}
 
 	#box3{
@@ -363,32 +336,31 @@ a{
 	}
 
 	#box4{
-		margin-top: 900px;
+		margin-top: 90vh;
 	}
 
 	#img8{
 		width: 25vw;
-		margin-top: 100px;
+		margin-top: 10vh;
 	}
 
 	#img9{
 		width: 25vw;
-		margin-top: 100px;
-		margin-left: 700px;
+		margin-top: 10vh;
+		margin-left: 36vw;
 	}
 
 	#img10{
 		width: 25vw;
-		margin-top: 100px;
-		margin-left: 1300px;
+		margin-top: 10vh;
+		margin-left: 67vw;
 	}
 
 	#box5{
-		margin-top: 300px;	
+		margin-top: 20vh;	
 	}
 
 	#img11{
-		margin-bottom: 200px;
+		margin-bottom: 20vh;
 	}
 }
-
