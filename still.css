@@ -3,7 +3,7 @@ body{
 	margin-top: 0;
 	margin-right: 0;
 	opacity: 0;
-    	transition: opacity 1.5s;
+    transition: opacity 1.5s;
 }
 
 header{
@@ -87,6 +87,7 @@ a{
 }
 
 #box3{
+	width: 100vw;
 	position: relative;
 	margin-top: 35vh;
 }
@@ -122,6 +123,7 @@ a{
 }
 
 #box5{
+	width: 100vw;
 	position: relative;
 	margin-top: 20vh;
 }
@@ -168,167 +170,79 @@ a{
 	}
 }
 
-@media screen and (min-width : 700px){
+@media screen and (min-width: 700px){
 	header{
-		font-size: 25px;
-		height: 5%;
-	}
-
-	#cv{
-		margin-right: 20px;
+		height: 5vh;
+		padding-top: 2%;
+		font-size: 35px;
+		background-color: ;
 	}
 
 	#box1{
-		height: 60vh;
-	}
-
-	#img1{
-		width: 30vw;
-	}
-
-	#img2{
-		width: 50vw;
-		margin-top: -13vh;
-		margin-left: 45vw;
-	}
-
-	#box2{
-		height: 120vh;
-		margin-top: 55vh;
+		top: 5vh;
 	}
 
 	#box3{
-		height: 40vh;
-		margin-top: 40vh;
-	}
-
-	#box4{
-		margin-top: 10vh;
-	}
-
-	#img9{
-		margin-top: 30vh;
-	}
-
-	#img10{
 		margin-top: 50vh;
-	}
-
-	#box5{
-		margin-top: 20vh;
 	}
 }
 
-@media screen and (min-width : 1024px){
+@media screen and (min-width: 900px){
 	header{
-		height: 6%;
+		font-size: 25px;
+		padding-top: 1%;
 	}
 
 	#cv{
-		right: 50px;
-	}
-
-	#box1{
-		height: 80vh;
-	}
-
-	#img1{
-		width: 25vw;
-		margin-top: 10vh;
-	}
-
-	#img2{
-		width: 45vw;
-		margin-top: -20vh;
-		margin-left: 45vw;
+		right: 5vw;
 	}
 
 	#box2{
-		margin-top: 80vh;
-		height: 150vh;
-	}
-
-	#img4{
-		width: 25vw;
-		margin-left: 8vw;
-		margin-top: 10vh;
-	}
-
-	#img5{
-		width: 50vw;
-		margin-top: 10vh;
-		right: 7vw;
-	}
-
-	#img6{
-		width: 50vw;
-		margin-top: 100vh;
-		margin-left: 30%;
-	}
-
-	#box4{
-		margin-top: 50vh;
-	}
-
-	#img9{
-		margin-top: 50vh;
-	}
-
-	#img10{
-		margin-top: 90vh;
-	}
-
-	#img11{
-		margin-top: 20vh;
+		height: 280vh;
 	}
 }
 
-@media screen and (min-width : 1400px){
-	header{
-		height: 5%;
-	}
-
-	#name{
-		margin-left: 30px;
-	}
-
-	#cv{
-		right: 20px;
+@media screen and (min-width: 1200px){
+	#box1{
+		height: 120vh;
 	}
 
 	#img1{
-		width: 20vw;
+		width: 25vw;
 		margin-top: 10vh;
-		margin-left: 30vh;
 	}
 
 	#img2{
 		width: 40vw;
-		margin-left: 45vw;
-		margin-top: -300px;
+		margin-top: -20%;
+		margin-left: 50%;
 	}
 
 	#box2{
-		margin-top: 110vh;
+		margin-top: 80vh;
 		height: 90vh;
 	}
 
 	#img4{
 		width: 18vw;
+		margin-left: 5vw;
 	}
 
 	#img5{
 		width: 30vw;
+		margin-top: 5vw;
+		margin-left: 65vw;
 	}
 
 	#img6{
 		width: 30vw;
-		margin-left: 25vw;
-		margin-top: 40vh;
+		margin-left: 28vw;
+		margin-top: 50vh;
 	}
 
 	#box3{
 		width: 100vw;
+		margin-top: 60vh;
 	}
 
 	#img7{
@@ -336,7 +250,7 @@ a{
 	}
 
 	#box4{
-		margin-top: 90vh;
+		margin-top: 50vh;
 	}
 
 	#img8{
@@ -347,20 +261,13 @@ a{
 	#img9{
 		width: 25vw;
 		margin-top: 10vh;
-		margin-left: 36vw;
+		margin-left: 35vw;
 	}
 
 	#img10{
 		width: 25vw;
 		margin-top: 10vh;
-		margin-left: 67vw;
+		margin-left: 65vw;
 	}
 
-	#box5{
-		margin-top: 20vh;	
-	}
-
-	#img11{
-		margin-bottom: 20vh;
-	}
 }
