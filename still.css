@@ -125,6 +125,15 @@ a{
 	
 }
 
+#box5{
+	width: 100vw;
+	margin-bottom: 25vh;
+}
+
+#img11{
+	width: 100vw;
+}
+
 @media screen and (min-width: 600px){
 	#img4, #img5, #img6 {
 		width: 30%;
