@@ -115,7 +115,6 @@ a{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
-/*	align-item: center;*/
 	gap: 10vh;
 	margin-bottom: 25vh;
 }
@@ -151,6 +150,12 @@ a{
 		width: 42vw;
 
 	}	
+}
+
+@media screen and (max-width: 900px){
+	.ram{
+		width: 40vw;
+	}
 }
 
 @media screen and (min-width: 900px){
