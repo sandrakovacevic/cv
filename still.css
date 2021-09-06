@@ -115,7 +115,7 @@ a{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
-	gap: 10vh;
+	row-gap: 10vh;
 	margin-bottom: 25vh;
 }
 
@@ -142,21 +142,12 @@ a{
 	}
 
 	#box4{
-		gap:15vh;
-		margin: 4vh 4vh 20vh 4vh;
+		row-gap: 5vh;
 	}
 
-	.ram{
-		width: 42vw;
-
-	}	
-}
-
-@media screen and (max-width: 900px){
 	.ram{
 		width: 40vw;
-	}
-}
+	}	
 
 @media screen and (min-width: 900px){
 	#box{
@@ -177,14 +168,11 @@ a{
 	}
 
 	#box4{
-		gap: 15vh;
-		margin-bottom: 30vh;
+		row-gap: 10vh;
 	}
+
+	
 }
-
-
-
-
 
 
 
