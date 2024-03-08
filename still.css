@@ -143,13 +143,13 @@ a{
 
 	#box4{
 			row-gap: 5vh;
-/*	margin: 4vh 4vh 20vh 4vh;*/
+	margin: 4vh 4vh 20vh 4vh;*/
 	}
 
 	.ram{
 		width: 40vw;
 	}	
-/*
+
 @media screen and (max-width: 900px){
 	.ram{
 		width: 40vw;
@@ -159,7 +159,7 @@ a{
 		gap: 5vh;
 	}
 }
-*/
+
 @media screen and (min-width: 900px){
 	#box{
 		margin-top: 0;
@@ -192,7 +192,7 @@ a{
 
 
 
-/*
+
 
 
 #img9{
@@ -207,7 +207,7 @@ a{
 	margin-top: vh;
 	margin-left: 66vw;
 }
-*/
+
 #box5{
 	width: 100vw;
 	margin-bottom: 20vh;
@@ -217,7 +217,7 @@ a{
 	width: 100vw;
 	
 }
-/*
+
 @media screen and (min-width: 500px) and (orientation: landscape){
 	header{
 		height: 8%;
@@ -453,4 +453,4 @@ a{
 	#img11{
 		margin-bottom: 200px;
 	}
-}*/
+}
